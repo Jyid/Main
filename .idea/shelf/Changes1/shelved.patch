@@ -1,0 +1,13 @@
+Index: JYID2/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/JYID2/.idea/.gitignore b/JYID2/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1685441450851)
++++ b/JYID2/.idea/.gitignore	(date 1685441450851)
+@@ -0,0 +1,3 @@
++# Default ignored files
++/shelf/
++/workspace.xml
